@@ -9,5 +9,5 @@ Toda la documentación del readme está en el pdf que entregamos ya que aquí no
 Incluid debajo el nombre de los miembros del grupo:
 
 Álvaro Pérez Mella
-
+Rebeca Cuesta Estépar
 Darío Fernández Pérez
