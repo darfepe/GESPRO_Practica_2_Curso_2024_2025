@@ -3,6 +3,9 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
 
+Toda la documentación del readme está en el pdf que entregamos ya que aquí no se pueden introducir capturas de pantalla.
+
+
 Incluid debajo el nombre de los miembros del grupo:
 
 Álvaro Pérez Mella
